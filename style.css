@@ -535,7 +535,8 @@ footer .container-footer .content-4 .copyright span {
     top: 0;
     transition: none;
     position: relative;
-    width: 70%;
+    width: 65%;
+    border: 1px solid red;
   }
 
   .navbar .navbar-content .navbar-items {
